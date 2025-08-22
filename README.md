@@ -1,12 +1,4 @@
-<style>
-    pink {
-      color: hotpink;        /* text color */
-      background: #ffe6f2;   /* light pink background */
-      padding: 2px 4px;      /* little spacing */
-      border-radius: 4px;    /* rounded corners */
-    }
-  </style>
-<p><pink>To get this to build without having to install untold GBs of Apple SDKs for things I don't even use, I basically gutted the <code>build-xcframework.sh</code> script until I got to it do OSX support and OSX support only.</pink></p>
+**To get this to build without having to install untold GBs of Apple SDKs for things I don't even use, I basically gutted the <code>build-xcframework.sh</code> script until I got to it do OSX support and OSX support only.**
 
 ---
 
