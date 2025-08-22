@@ -1,3 +1,15 @@
+<style>
+    pink {
+      color: hotpink;        /* text color */
+      background: #ffe6f2;   /* light pink background */
+      padding: 2px 4px;      /* little spacing */
+      border-radius: 4px;    /* rounded corners */
+    }
+  </style>
+<p><pink>To get this to build without having to install untold GBs of Apple SDKs for things I don't even use, I basically gutted the <code>build-xcframework.sh</code> script until I got to it do OSX support and OSX support only.</pink></p>
+
+---
+
 # whisper.cpp
 
 ![whisper.cpp](https://user-images.githubusercontent.com/1991296/235238348-05d0f6a4-da44-4900-a1de-d0707e75b763.jpeg)
